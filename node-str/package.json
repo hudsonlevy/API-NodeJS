@@ -16,7 +16,9 @@
     "expresss": "0.0.0",
     "guid": "0.0.12",
     "http": "0.0.0",
-    "mongoose": "^5.0.12"
+    "md5": "^2.2.1",
+    "mongoose": "^5.0.12",
+    "sendgrid": "^2.0.0"
   },
   "devDependencies": {
     "nodemon": "^1.17.3"
